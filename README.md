@@ -1,0 +1,2 @@
+# android_device_wileyfox_kipper
+# android_device_wileyfox_kipper
